@@ -1,3 +1,5 @@
+idea title(2048 game)
+idea number:3 ,row number:15
 1-Hager mahmoud mostafa -20170618 - هاجر محمود مصطفي
 2-Ahmed adel ali -20170040 -احمد عادل علي
 3-Mohmed abdelkader said -20170454 -محمد عبد القادر سيد
